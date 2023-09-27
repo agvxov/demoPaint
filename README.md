@@ -15,4 +15,4 @@ Fordítás:
 ```
 
 Ha probléma akadna a fordítással:
-[demo](demo.GIF)
+![demo](demo.GIF)
